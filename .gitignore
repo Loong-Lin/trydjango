@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Django
+migrations/
+!migrations/__init__.py
+
+# PyCharm
+# http://www.jetbrains.com/pycharm/webhelp/project.html
+.idea
+.iml
